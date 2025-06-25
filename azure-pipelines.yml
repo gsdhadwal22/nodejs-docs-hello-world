@@ -15,7 +15,7 @@ variables:
   webAppName: 'GSD-WEBAPP-DEV1'
 
   # Environment name
-  environmentName: 'GSD-WEBAPP-DEV1'
+  environmentName: 'DEV'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
