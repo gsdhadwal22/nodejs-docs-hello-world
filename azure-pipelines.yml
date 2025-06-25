@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'b0cf2a24-13d2-4329-b2ac-8720e781d4ca'
 
   # Web app name
-  webAppName: 'GSD-WEBAPP1'
+  webAppName: 'GSD-WEBAPP-DEV1'
 
   # Environment name
-  environmentName: 'GSD-WEBAPP1'
+  environmentName: 'GSD-WEBAPP-DEV1'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
